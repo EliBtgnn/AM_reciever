@@ -2,14 +2,14 @@
 
 A complete AM radio receiver project, built from scratch on a perfboard. This project demonstrates radio frequency (RF) reception, signal demodulation, and multi-stage audio amplification.
 
-## 🏗️ Hardware Implementation
+## ⟡ Hardware Implementation
 The circuit was moved from a breadboard to a permanent **perfboard** construction to ensure signal stability and durability. 
 
 *   **Front View:** Organized layout with manual tuning and volume controls.
 *   **Back View:** Hand-soldered connections using point-to-point wiring.
 *   **Compact Design:** The entire system is built on a small footprint, as shown by the scale reference.
 
-## 🔬 Circuit Anatomy
+## ⟡ Circuit Anatomy
 As illustrated in the annotated diagram below, the receiver is composed of several critical blocks:
 
 1.  **Antenna & Tuning:** LC resonant circuit for station selection.
@@ -20,19 +20,19 @@ As illustrated in the annotated diagram below, the receiver is composed of sever
 
 ![Annotated Circuit Blocks](am_radio_2.jpg)
 
-## 📸 Photos of the circuit
+## ⟡ Photos of the circuit
 | Front View (Scale) | Internal Wiring (Soldering) |
 | :---: | :---: |
 | ![Front View](front_side.jpg) | ![Back View](back_side.jpg) |
 
-## 🛠️ Circuit Schematic
-The theoretical design behind this build is based on the following schematic:
+## ⟡ Circuit Schematic
+The theoretical design behind this build is based on the following schematic (credits to my professors, lectures on 'Introduction to Telecommunications and Electronics'):
 ![AM Radio Schematic](image_a13361.png)
 
-## 🚀 Key Skills Demonstrated
+## ⟡ Key Skills Demonstrated
 *   **Analog Circuit Design:** Understanding of RF resonance and amplification.
 *   **Soldering & Prototyping:** Transitioning from theory to a functional physical device.
 *   **Signal Debugging:** Identifying and filtering noise in an analog environment.
 -> At the time of demonstartion, this radio recieved and reproduced the signal from 'ΕΡΤ', greek radio channel.
 ---
-*Developed as part of my personal exploration into Analog Electronics and Telecommunications at ECE NTUA, in 3rd semester.*
+*Developed as part of my personal exploration, with supervision of the professors of the lectures and the lab of 'Introduction to Electronics and Telecommunications' at ECE NTUA, in 3rd semester.*
