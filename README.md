@@ -18,7 +18,7 @@ As illustrated in the annotated diagram below, the receiver is composed of sever
 4.  **Preamplifier:** TL082 op-amp stage for initial voltage gain and impedance buffering.
 5.  **Power Amplifier:** LM386 stage to drive the 8Ω speaker output.
 
-![Annotated Circuit Blocks](am_radio_2.jpg)
+![Annotated Circuit Blocks](am_radio_.pgn)
 
 ## ⟡ Photos of the circuit
 | Front View (Scale) | Internal Wiring (Soldering) |
@@ -27,7 +27,7 @@ As illustrated in the annotated diagram below, the receiver is composed of sever
 
 ## ⟡ Circuit Schematic
 The theoretical design behind this build is based on the following schematic (credits to my professors, lectures on 'Introduction to Telecommunications and Electronics'):
-![AM Radio Schematic](image_a13361.png)
+![AM Radio Schematic](am_radio_circuit_diagram.png)
 
 ## ⟡ Key Skills Demonstrated
 *   **Analog Circuit Design:** Understanding of RF resonance and amplification.
