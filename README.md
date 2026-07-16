@@ -18,7 +18,7 @@ As illustrated in the annotated diagram below, the receiver is composed of sever
 4.  **Preamplifier:** TL082 op-amp stage for initial voltage gain and impedance buffering.
 5.  **Power Amplifier:** LM386 stage to drive the 8Ω speaker output.
 
-![Annotated Circuit Blocks](am_radio_.png)
+![Annotated Circuit Blocks](am_radio.png)
 
 ## ⟡ Photos of the circuit
 | Front View (Scale) | Internal Wiring (Soldering) |
